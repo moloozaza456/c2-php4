@@ -26,10 +26,10 @@ function multiply(){
 	echo "This is a Function multiply = ".$multiply."<br/>";
 }
 
-add();
-sub();
-division();
-multiply();
+add(); //Calling add Function
+sub(); //Calling sub Function
+division(); //Calling division Function
+multiply(); //Calling multiply Function
 
 
 ?>
